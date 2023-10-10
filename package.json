@@ -6,7 +6,7 @@
     "rxjs": "6.5.2",
     "core-js": "2.6.9",
     "zone.js": "0.9.1",
-    "@angular/core": "8.0.0",
+    "@angular/core": "10.2.5",
     "@angular/forms": "8.0.0",
     "@angular/common": "8.0.0",
     "@angular/router": "8.0.0",
